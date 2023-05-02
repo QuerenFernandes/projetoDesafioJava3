@@ -1,17 +1,11 @@
-# Nome do meu projeto
+# Projeto Desafio Java 3
 
-Rápida descrição do objetivo de fazer esse projeto
+Nesse projeto, criei classes aplicando o ArrayList<>, e consequentemente criando objetos.
+Usei o Comparable sendo implementado na Classe Compra para que fosse possível fazer a ordenação dos objetos através da comparação. 
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Na interação com o usuário, é mostrado o Titular do Cartão, o número do cartão e é feita algumas perguntas de validação. As compras são aprovadas até que atinjam o limite do cartão. 
+No caso do limite do cartão ser atingido, é mostrado na tela os itens comprados ordenados pelo preço. 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+Segue imagem do resultado no terminal: 
+![java](https://user-images.githubusercontent.com/95857175/235770180-3a8d5f03-3faa-4438-b9a9-8dac8eb30a67.png#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
